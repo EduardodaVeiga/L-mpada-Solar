@@ -1,4 +1,4 @@
-baseURL = "https://cursoseaulas.gitlab.io/introducao-engenharia/ie21cp20201/"
+baseURL = "https://cmpz.gitlab.io/ie21cp20201"
 languageCode = "en-us"
 title = "Site do Projeto"
 theme = "learn"

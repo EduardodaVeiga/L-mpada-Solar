@@ -14,7 +14,7 @@ O projeto foi desenvolvido pelos alunos de Engenharia de Computação:
 
 A documentação do projeto pode ser acessada pelo link:
 
->  WIP
+>  https://cmpz.gitlab.io/ie21cp20201
 
 # Links Úteis
 

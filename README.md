@@ -9,6 +9,7 @@ O projeto foi desenvolvido pelos alunos de Engenharia de Computação:
 |Eduardo Veiga| [@cmpz](https://gitlab.com/cmpz)|
 |Guilerme Biancato Perão | [@guilhermebp](https://gitlab.com/guilhermebp)|
 |Gabriel Soares| [@gabriel0605](https://gitlab.com/gabriel0605)|
+|Vinícius Soares| [@vncs](https://gitlab.com/vncs)|
 
 # Documentação
 

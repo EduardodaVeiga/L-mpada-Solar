@@ -20,6 +20,5 @@ A documentação do projeto pode ser acessada pelo link:
 
 # Links Úteis
 
-* [Kit de Desenvolvimento Arduino](https://www.arduino.cc/)
-* [Sintax Markdown](https://docs.gitlab.com/ee/user/markdown.html)
-* [Hugo Website](https://gohugo.io/)
+* [Nosso Projeto no Tinkercad](https://www.tinkercad.com/things/eq19tyXHyPy)
+* [Documentação](https://cmpz.gitlab.io/ie21cp20201)

@@ -1,4 +1,4 @@
-# Documentação de Projeto de Controle de Temperatura
+# Documentação de Projeto de Lâmpada Solar
 
 ## 1. Introdução
 

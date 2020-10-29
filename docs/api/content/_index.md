@@ -67,12 +67,9 @@ void loop()
 
 ## 6. Resultados
 
-O vídeo de demonstração pode ser visto em:
-{{< https://www.youtube.com/watch?v=gwLBk86kesU >}}
+O vídeo de demonstração pode ser visto em: https://www.youtube.com/watch?v=gwLBk86kesU
 
 
 ## 7. Desafios encontrados
 
-- Realizar a conexão dos componentes de forma funcional e organizada;
-
-Sincronizar o servidor de horários.
+- Realizar a conexão dos componentes de forma funcional e organizada.

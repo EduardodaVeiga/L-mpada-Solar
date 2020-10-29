@@ -1,24 +1,23 @@
 [![enter image description here](http://www.utfpr.edu.br/++theme++utfpr_branco/img/logo.png)](http://www.utfpr.edu.br/)
 # Introdução
-[![enter image description here](https://csg.tinkercad.com/things/eq19tyXHyPy/t725.png?rev=1603827373866000000&s=&v=1&type=circuits)](https://www.tinkercad.com/things/eq19tyXHyPy)
-## Equipe
+* ####  Lâmpada Solar 
+	Sistema fotovoltaico para iluminação de ambiente externo.
 
-O projeto foi desenvolvido pelos alunos de Engenharia de Computação:
+	Veja a simulação do projeto clicando na imagem abaixo:
+    
+[![enter image description here](https://csg.tinkercad.com/things/eq19tyXHyPy/t725.png?rev=1603827373866000000&s=&v=1&type=circuits)](https://www.tinkercad.com/things/eq19tyXHyPy) 
 
-|Nome| gitlab user|
-|---|---|
-|Eduardo Veiga| [@cmpz](https://gitlab.com/cmpz)|
-|Guilherme Biancato Perão | [@guilhermebp](https://gitlab.com/guilhermebp)|
-|Gabriel Soares| [@gabriel0605](https://gitlab.com/gabriel0605)|
-|Vinicius Soares| [@vncs](https://gitlab.com/vncs)|
 
 # Documentação
+Entenda mas sobre o projeto acessando a documentação [aqui](https://cmpz.gitlab.io/ie21cp20201).
 
-A documentação do projeto pode ser acessada pelo link:
+## Equipe
+O projeto foi desenvolvido pelos alunos de Engenharia de Computação:
 
-> [Clique Aqui](https://cmpz.gitlab.io/ie21cp20201)
-
+* [Eduardo Veiga](https://gitlab.com/cmpz) 
+* [Gabriel Soares](https://gitlab.com/gabriel0605)
+* [Guilherme Biancato Perão](https://gitlab.com/guilhermebp)
+* [Vinicius Soares](https://gitlab.com/vncs)
 # Links Úteis
-
 * [Nosso Projeto no Tinkercad](https://www.tinkercad.com/things/eq19tyXHyPy)
 * [Documentação](https://cmpz.gitlab.io/ie21cp20201)

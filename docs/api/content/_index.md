@@ -30,7 +30,7 @@ A implementação do projeto pode ser vista pela foto abaixo:
  ![Resistor](https://beta-editor.tinkercad.com/components/thumbnails/resistor.png)
  * 1 Fotorresistor;
 
- ![Fotoresistor]https://beta-editor.tinkercad.com/components/thumbnails/photoResistor.png()
+ ![Fotoresistor](https://beta-editor.tinkercad.com/components/thumbnails/photoResistor.png)
  * 1 Bateria de 9V.;
 
  ![Bateria](https://beta-editor.tinkercad.com/components/thumbnails/battery9V.png)

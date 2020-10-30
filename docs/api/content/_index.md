@@ -84,7 +84,7 @@ void loop()
 ## 6. Resultados
 
 O vídeo de demonstração pode ser visto em:
-{{< youtube gwLBk86kesU >}
+{{< youtube gwLBk86kesU >}}
 
 
 ## 7. Desafios encontrados

@@ -4,7 +4,7 @@
 
 A implementação do projeto pode ser vista pela foto abaixo:
 
-![](fotoprojeto.jpeg)
+![](https://www.tinkercad.com/embed/eq19tyXHyPy?editbtn=1)
 
 
 ## 2. Objetivos

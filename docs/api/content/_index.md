@@ -47,7 +47,7 @@ A implementação do projeto pode ser vista pela foto abaixo:
 
 O esquema elétrico pode ser visto por:
 
-![](https://cdn.discordapp.com/attachments/753295630503247907/771720113132666880/Untitled_Sketch_bb.png)
+![](esquema.png)
 
 ## 5. Código
 

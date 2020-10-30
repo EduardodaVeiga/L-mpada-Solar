@@ -5,7 +5,7 @@
 
 A implementação do projeto pode ser vista pela foto abaixo:
 
-![enter image description here](https://csg.tinkercad.com/things/eq19tyXHyPy/t725.png?rev=1603827373866000000&s=&v=1&type=circuits) 
+[![enter image description here](https://csg.tinkercad.com/things/eq19tyXHyPy/t725.png?rev=1603827373866000000&s=&v=1&type=circuits)](https://www.tinkercad.com/embed/eq19tyXHyPy?editbtn=1)
 
 
 

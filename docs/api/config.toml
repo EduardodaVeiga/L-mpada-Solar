@@ -1,6 +1,6 @@
 baseURL = "https://cmpz.gitlab.io/ie21cp20201"
-languageCode = "en-us"
-title = "Site do Projeto"
+languageCode = "pt-br"
+title = "Lâmpada Solar"
 theme = "learn"
 
 

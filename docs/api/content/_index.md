@@ -35,7 +35,7 @@ O esquema elétrico pode ser visto por:
 ![](esquema.png)
 
 ##### ATENÇÃO!
-Esquema não implemtado na vida real somente no simulador, faça os teste nescessarios antes de implemtar.
+Esquema não implementado na vida real somente no simulador, faça os teste nescessários antes de implementar.
 
 ## 5. Código
 
@@ -78,8 +78,8 @@ O vídeo de demonstração pode ser visto em:
 ## 7. Desafios encontrados
 
 - Realizar a conexão dos componentes de forma funcional e organizada.
-- Falta de pecas nescessarias no simulador para implementação do projeto.
-- Buscar solucões para problesmas nas adaptacões do projeto.
-- O projeto não pode ser implemtado fora do simulador devido a distancia dos membros 
-- Falta de conhecimentos tecnicos em programação em arduino.
-- Falta de de conhecimento em eletronica basica.
+- Falta de peças nescessárias no simulador para implementação do projeto.
+- Buscar solucões para problemas nas adaptacões do projeto.
+- O projeto não pode ser implementado fora do simulador devido a distância dos membros. 
+- Falta de conhecimentos técnicos em programação de arduino.
+- Falta de de conhecimento em eletrônica basica.

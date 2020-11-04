@@ -30,12 +30,12 @@ A implementação do projeto pode ser feita por você clique na imagem abaixo e 
 ## 4. Esquema Elétrico
 
 
-O esquema elétrico pode ser visto por:
+O esquema elétrico pode ser visto em:
 
 ![](esquema.png)
 
 ##### ATENÇÃO!
-Esquema não implementado na vida real somente no simulador, faça os teste nescessários antes de implementar.
+Esquema não implementado na vida real somente no simulador, faça os testes nescessários antes de implementar.
 
 ## 5. Código
 
@@ -79,7 +79,7 @@ O vídeo de demonstração pode ser visto em:
 
 - Realizar a conexão dos componentes de forma funcional e organizada.
 - Falta de peças nescessárias no simulador para implementação do projeto.
-- Buscar solucões para problemas nas adaptacões do projeto.
+- Buscar soluções para problemas nas adaptacões do projeto.
 - O projeto não pode ser implementado fora do simulador devido a distância dos membros. 
 - Falta de conhecimentos técnicos em programação de arduino.
 - Falta de de conhecimento em eletrônica basica.
